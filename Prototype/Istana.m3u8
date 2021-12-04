@@ -17,10 +17,9 @@ https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master.m3u8|X-Forwarded-For=117
 http://185.236.229.21:9981/play/a056
 
 #EXTINF:-1 tvg-id="TV1 HD" group-title="Malaysia" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101.png",TV1
-https://rtmlive01.secureswiftcontent.com/rtmchannel/01-1080.m3u8
-
+https://rtmlive01.secureswiftcontent.com/rtmchannel/01-manifest.m3u8
 #EXTINF:-1 tvg-id="TV2" group-title="Malaysia" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032302034uev.png",TV2
-https://rtmlive05.secureswiftcontent.com/rtmchannel/05-1080.m3u8
+https://rtmlive05.secureswiftcontent.com/rtmchannel/05-manifest.m3u8
 
 #EXTINF:-1 tvg-ID="TV3.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title="Malaysia",TV3
 https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHQMDi_D-4dFHfQheeoShMuw)/dm/3/x6qp375/d/live-3.m3u8|Referer=https://www.dailymotion.com
