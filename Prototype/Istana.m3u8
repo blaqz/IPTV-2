@@ -21,13 +21,13 @@ https://rtmlive01.secureswiftcontent.com/rtmchannel/01-manifest.m3u8
 #EXTINF:-1 tvg-id="TV2" group-title="Malaysia" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032302034uev.png",TV2
 https://rtmlive05.secureswiftcontent.com/rtmchannel/05-manifest.m3u8
 #EXTINF:-1 tvg-ID="TV3.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title="Malaysia",TV3
-https://stream-04.sg1.dailymotion.com/sec(Zqc0ZDcpMSy05peWWXyuXRfiZT8Hz3PHMJlwju7ZKE6vkJE4QOYoLcHR8MpXGS_It2kcBV0W-42LzLc2jXkLQw)/dm/3/x6qp375/d/live-3.m3u8
+https://stream-05.sg1.dailymotion.com/sec(Zqc0ZDcpMSy05peWWXyuXR9pR4C10tmfXgowIKKibY-m2_jkQKowdMl0wmVyyOQdjIcxJUgX-KKeDYKE8nVZFA)/dm/3/x6qp375/d/live-3.m3u8
 #EXTINF:-1 tvg-ID="TV7.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/ntv7.png" group-title="Malaysia",NTV 7
 https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHR2aXHnvGTrzdEJwrfLHIOjFjj62_pXK_1iwLDlK70qJ)/dm/3/x6qp6ou/s/live-3.m3u8
 #EXTINF:-1 tvg-ID="8TV.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="Malaysia",8TV
 https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHcxTtf-dRY_zHwutVU10ixw)/dm/3/x6qud17/s/live-1.m3u8
 #EXTINF:-1 tvg-ID="TV9.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png" group-title="Malaysia",TV9
-https://stream-05.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHdR6_f8RDsRxqYxQrtCGOQkRHZRgTDROJw0c0B5AV5CP)/dm/3/x6qqja6/s/live-3.m3u8
+https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHTt5wHyNmyE7XQuQ04KPjz5imiIkIGFulnsupCu5WQjG)/dm/3/x6qqja6/s/live-3.m3u8
 #EXTINF:-1 tvg-ID="BRE.MY" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg" group-title="Malaysia",Berita RTM 
 https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b2064000.m3u8
 #EXTINF:-1 tvg-ID="RTS.MY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="Malaysia",RTM Sports
